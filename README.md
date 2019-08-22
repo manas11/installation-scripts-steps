@@ -7,4 +7,4 @@ This repository contains some script files to install libraries and software for
 
     sudo sh <script file name>
 
-### Step 2 : Enter your sudo password and wait till the script finishes installing libraries and softwares.
+### Step 2 : Enter your sudo password and wait till the script finishes installing libraries and packages.
