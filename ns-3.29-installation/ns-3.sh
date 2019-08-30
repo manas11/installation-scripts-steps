@@ -55,16 +55,6 @@ sudo apt-get autoremove -y
 sudo apt-get autoclean -y
 
 
-#now download ns3 from https://www.nsnam.org/releases/ns-allinone-3.29.tar.bz2
-wget  https://www.nsnam.org/releases/ns-allinone-3.29.tar.bz2
 
-#now extract this to a directory and enter the ns-allinone-3.29 directory
-tar -xvf ns-allinone-3.29.tar.bz2 
-
-cd ns-allinone-3.29
-./build.py --enable-examples --enable-tests
-
-cd ns-3.29
-./test.py -v core
 
 #done 
