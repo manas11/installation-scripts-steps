@@ -1,6 +1,6 @@
 # Installation Scripts
 
-This repository contains some script files to install libraries and software for  **Ubuntu 18.04**.
+Shell Scripts for installation of packages and softwares
 
 # How to run a script
 ### Step 1 : Follow the following steps to run a script
