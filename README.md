@@ -8,3 +8,11 @@ Shell Scripts for installation of packages and softwares
 sudo sh <script file name>
 ```
 - **Step 2 : Enter your superuser password and wait till the script finishes installing libraries and packages.**
+
+### Following scripts are added till now:
+
+- Ubuntu VNC Desktop gnome
+- Moodle 
+- ns3.29
+- python-opcua
+- CMake
