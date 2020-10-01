@@ -16,3 +16,5 @@ sudo sh <script file name>
 - ns3.29
 - python-opcua
 - CMake
+- RubyOnRails
+- MySQL
