@@ -9,6 +9,8 @@ sudo apt-get autoclean -y
 ```
 
 ### Install RVM and libraries required
+Using rvm to manage different ruby versions on your machine
+
 ```
 sudo apt-get install curl -y
 sudo apt-get install gnupg2 -y
