@@ -4,7 +4,7 @@
 vim ~/.vnc/xstartup
 ```
 
-## add bottom mentioned lines and save
+## these lines to be added in xstartup file
 ```
 #!/bin/sh 
 [ -x /etc/vnc/xstartup ] && exec /etc/vnc/xstartup
@@ -12,7 +12,7 @@ vim ~/.vnc/xstartup
 vncconfig -iconic &
 dbus-launch --exit-with-session gnome-session &
 ```
-## run below command to start vnc server and set sharpness, resolution for that
+## run below command to start vnc server and set sharpness, resolution values
 ```
 vncserver -localhost no -geometry 800x600 -depth 24
 ```
