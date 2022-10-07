@@ -20,3 +20,4 @@ or change to superuser and execute
 - RubyOnRails
 - MySQL
 - NodeJS
+- macOS basic software setup
