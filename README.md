@@ -19,3 +19,4 @@ or change to superuser and execute
 - CMake
 - RubyOnRails
 - MySQL
+- NodeJS
