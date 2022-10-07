@@ -22,3 +22,4 @@ or change to superuser and execute
 - NodeJS
 - macOS basic software setup
 - Visual C++ 2010 Express
+- Programmer Guide
