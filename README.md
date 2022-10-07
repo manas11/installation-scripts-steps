@@ -21,3 +21,4 @@ or change to superuser and execute
 - MySQL
 - NodeJS
 - macOS basic software setup
+- Visual C++ 2010 Express
