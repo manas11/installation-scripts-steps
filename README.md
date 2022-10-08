@@ -24,3 +24,4 @@ or change to superuser and execute
 - Visual C++ 2010 Express
 - Programmer Guide
 - Install JDK on MacOS
+- Use Environment Variables
