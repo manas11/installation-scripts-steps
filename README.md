@@ -23,3 +23,4 @@ or change to superuser and execute
 - macOS basic software setup
 - Visual C++ 2010 Express
 - Programmer Guide
+- Install JDK on MacOS
